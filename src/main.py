@@ -1,7 +1,7 @@
 # Main Function
-from exercise_1 import C_Student as S, C_Employee as E, C_Person as P
-from exercise_2 import C_Unit as U
-from exercise_3 import C_MagicMethod as M
+from src.exercise_1 import C_Employee as E, C_Student as S, C_Person as P
+from src.exercise_2 import C_Unit as U
+from src.exercise_3 import C_MagicMethod as M
 
 
 def oopFirst():
